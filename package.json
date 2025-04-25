@@ -2,6 +2,7 @@
 	"name": "teskalabs_training_ui_app",
 	"version": "25.1.1",
 	"main": "index.js",
+	"homepage": "https://github.com/Pasha2407/training-ui-app-main",
 	"scripts": {
 		"start": "webpack serve --config webpack/webpack.dev.js",
 		"build": "webpack --config webpack/webpack.build.js"
@@ -31,7 +32,6 @@
 		"react-simple-tree-menu": "^1.1.18",
 		"reactstrap": "^9.2.0",
 		"redux": "^4.0.5",
-
 		"i18next-browser-languagedetector": "^6.1.2",
 		"asab_webui_components": "^25.1.1",
 		"asab_webui_shell": "^25.1.1"
